@@ -15,6 +15,6 @@ describe MyObject do
   end
 
   it "can multiply two numbers" do
-    @my_object.multiply(2) == 6
+    @my_object.multiply(2) == 4
   end
 end
